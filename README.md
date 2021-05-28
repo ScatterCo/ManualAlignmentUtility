@@ -9,7 +9,7 @@ A utility script to merge two metadata files for use with a manual alignment wor
 Clone the repo, then install the dependencies using npm:
 
 ```
-npm -i
+npm i
 ```
 
 ## Usage
