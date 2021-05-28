@@ -1,0 +1,24 @@
+{
+  "name": "MeshlabAlignment",
+  "version": "1.0.0",
+  "description": "A utility script to merge two metadata files for use with a manual alignment workflow.",
+  "main": "index.js",
+  "dependencies": {
+    "mathjs": "^9.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScatterCo/ManualAlignmentUtility.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ScatterCo/ManualAlignmentUtility/issues"
+  },
+  "homepage": "https://github.com/ScatterCo/ManualAlignmentUtility#readme"
+}
